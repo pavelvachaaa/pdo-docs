@@ -1,0 +1,20 @@
+site_name: KZ Docs
+site_url: https://kz.pavel-vacha.cz/
+theme: readthedocs
+  
+nav:
+  - "Portál UCP": 
+    - "Přehled": "cs/ucp/index.md"
+    - "Řízená dokumentace": "cs/ucp/rd.md"
+    - "Plánování služeb personálu": "cs/ucp/psp.md"
+    - "Slovníček": "cs/ucp/dict.md"
+    - "FAQ": "cs/ucp/faq.md"
+  - "FONS": 
+    - "Přístup": "fons/index.md"
+    - "VPN": "fons/dict.md"
+  - "Medix": 
+    - "Data": "fons/index.md"
+  - "Vema": 
+    - "Export": "fons/index.md"
+    - "ODBC": "fons/dict.md"
+  
