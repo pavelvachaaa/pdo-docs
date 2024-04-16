@@ -2,7 +2,7 @@
 Semestrální práce na předmět Psaní dokumentace. Bylo zdokumentováno několik procesů v intranetu ve společnosti KZ, a.s. Výsledek semestrální práce lze nalézt [zde](https://pdo.pavel-vacha.cz/) na adrese `https://pdo.pavel-vacha.cz/`
 
 ## Instalace mkdocs
-Stačí pouze nainstalovat Python balíček `mkdocs` pomocí příkazu `pip install mkdocs`
+Nainstalovat Python balíček `mkdocs` pomocí příkazu `pip install mkdocs`. A také material theme `pip install mkdocs-material`
 
 ## Vytvoření projektu
 Pro vytvoření adresářové strukutry a první konfigurace slouží příkaz `mkdocs new .`
