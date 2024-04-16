@@ -1,12 +1,32 @@
-site_name: KZ Docs
-site_url: https://kz.pavel-vacha.cz/
+site_name: Krajská zdravotní a.s.
+site_url: https://pdo.pavel-vacha.cz/
 theme:
   name: material
+  favicon: img/favicon.png
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      accent: black
+      primary: black
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 nav:
   - "Portál UCP": 
     - "Přehled": "cs/ucp/index.md"
-    - "Řízená dokumentace": "cs/ucp/rd.md"
-    - "Plánování služeb personálu": "cs/ucp/psp.md"
+    - "Řízená dokumentace": 
+      - "Přehled": "cs/ucp/rd/index.md"
+      - "Fronta": "cs/ucp/rd/fronta.md"
+      - "Filtry a pohledy": "cs/ucp/rd/filtry_pohledy.md"
+    - "Plánování služeb personálu":
+      - "Přehled": "cs/ucp/psp/index.md"
     - "Slovníček": "cs/ucp/dict.md"
     - "FAQ": "cs/ucp/faq.md"
   - "FONS": 
