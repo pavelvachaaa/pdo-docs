@@ -1,7 +1,7 @@
 site_name: KZ Docs
 site_url: https://kz.pavel-vacha.cz/
-theme: readthedocs
-  
+theme:
+  name: material
 nav:
   - "Portál UCP": 
     - "Přehled": "cs/ucp/index.md"
