@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pdo.pavel-vacha.cz/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/dict/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/faq/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/psp/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/rd/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pdo.pavel-vacha.cz/cs/ucp/rd/dokumenty/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/rd/filtry_pohledy/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pdo.pavel-vacha.cz/cs/ucp/rd/fronta/</loc>
-         <lastmod>2024-04-16</lastmod>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
