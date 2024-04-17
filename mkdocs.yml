@@ -23,8 +23,9 @@ nav:
     - "Přehled": "cs/ucp/index.md"
     - "Řízená dokumentace": 
       - "Přehled": "cs/ucp/rd/index.md"
-      - "Fronta": "cs/ucp/rd/fronta.md"
+      - "Dokumenty": "cs/ucp/rd/dokumenty.md"
       - "Filtry a pohledy": "cs/ucp/rd/filtry_pohledy.md"
+      - "Fronta": "cs/ucp/rd/fronta.md"
     - "Plánování služeb personálu":
       - "Přehled": "cs/ucp/psp/index.md"
     - "Slovníček": "cs/ucp/dict.md"
