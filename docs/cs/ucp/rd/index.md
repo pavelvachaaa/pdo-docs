@@ -19,6 +19,10 @@ Do řízené dokumentace se dostanete přes [rozcestník](http://rozcestnikkz.kz
 
 ![alt text](../../../img/rozcestnik.png "Rozcestník ")
 
+Po kliknutí budete přesměrováni na nový portál, kam budete automaticky přihlášeni. 
+
+V případě, že by došlo k problému s automatickým přihlášením, bude vám nabídnut formulář, do kterého zadáte údaje, které jsou stejné jako ke službě rozcestník.
+
 ## Co dál?
 
 Podrobný návod na používání jednotlivých částí řízené dokumentace naleznete níže nebo v levé části menu pod skecí `Portál UCP` > `Řízená dokumentace`.
