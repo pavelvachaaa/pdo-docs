@@ -1,4 +1,4 @@
-## Jak se do této sekce dostanu?
+## Jak se do sekce Dokumenty dostanu?
 Po přihlášení se vám zobrazí základní nabídka. V levé straně uvidíte základní menu, ve kterém bude záložka **"Řízená dokumentace"**. Toto lévé základní menu zůstavá po celou dobu práce v UCP viditelné.
 
 ![alt text](../../../img/image.png)
@@ -29,7 +29,7 @@ V detailu položky najdete v poli Aktuální publikovaná verze detailní inform
 
 ![alt text](../../../img/published.png)
 
-## Jak mohu najít konkrétní dokument?
+## Hledání konkrétního dokumentu
 Pokud znáte část názvu nebo identifikační číslo dokumentu, existují dvě možnosti. **"Prohledávání skrz intranet"** a **"Rychlé vyhledávání v seznamu".** První z možností prohledává mimo řízené dokumentace i v dokumentech pro zdravotechniku či pasportizaci. Rychlé vyhledávání vyhledává pouze v řízené dokumentaci.
 
 ### Prohledávání skrz intranet
@@ -53,13 +53,13 @@ Pole pro rychlé vyhledávání se nachází v seznamu dokumentů po kliknutí n
 ![alt text](../../../img/quick_search.png)
 
 
-## Jaký je rozdíl mezi rychlým vyhledáváním a filtrací dokumentů?
+## Rychlé vyhledávání vs. filtrace dokumentů
 
 Rychlé vyhledávání umožňuje rychlý přístup k dokumentům na základě jejich názvu nebo identifikačního čísla. Filtrace poskytuje pokročilejší možnosti vyhledávání, jako je filtrování podle různých kritérií jako jsou oddělení nebo lokalita. 
 
 V případě nejasností při práci s filtry využijte návod pro [filtry a pohledy](filtry_pohledy.md).
 
-## Jak můžu stáhnout starší verzi dokumentu?
+## Stáhnutí starší verze dokumentu
 
 V detailu dokumentu klikněte na ikonku spony. Dokument se sám stáhne.
 
