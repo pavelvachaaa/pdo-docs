@@ -21,7 +21,11 @@ Do řízené dokumentace se dostanete přes [rozcestník](http://rozcestnikkz.kz
 
 Po kliknutí budete přesměrováni na nový portál, kam budete automaticky přihlášeni. 
 
-V případě, že by došlo k problému s automatickým přihlášením, bude vám nabídnut formulář, do kterého zadáte údaje, které jsou stejné jako ke službě rozcestník.
+!!!- info "Časté potíže"
+
+    V případě, že by došlo k problému s automatickým přihlášením, bude vám nabídnut formulář, do kterého zadáte údaje, které jsou stejné jako ke službě **rozcestník**.
+
+
 
 ## Co dál?
 

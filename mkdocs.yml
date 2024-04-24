@@ -1,5 +1,9 @@
 site_name: Krajská zdravotní a.s.
 site_url: https://pdo.pavel-vacha.cz/
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
   name: material
   favicon: img/favicon.png
