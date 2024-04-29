@@ -29,7 +29,8 @@ nav:
       - "Přehled": "cs/ucp/rd/index.md"
       - "Dokumenty": "cs/ucp/rd/dokumenty.md"
       - "Filtry a pohledy": "cs/ucp/rd/filtry_pohledy.md"
-      - "Fronta": "cs/ucp/rd/fronta.md"
+      # nároky nejsou asi tak vysoké => pro zkoušku přeskočeno.
+        #- "Fronta": "cs/ucp/rd/fronta.md"
     - "Plánování služeb personálu":
       - "Přehled": "cs/ucp/psp/index.md"
     - "Slovníček": "cs/ucp/dict.md"
